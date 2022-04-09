@@ -1,7 +1,7 @@
+import 'package:boilerplate/utils/constants/storage_keys.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:get_storage/get_storage.dart';
-import 'package:boilerplate/utils/constants/_constants.dart';
 
 class TranslationController extends GetxController {
   final _storage = GetStorage();

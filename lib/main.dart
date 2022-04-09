@@ -1,5 +1,5 @@
 import 'package:boilerplate/app_binding.dart';
-import 'package:boilerplate/utils/routes/app_views.dart';
+import 'package:boilerplate/utils/routes/app_pages.dart';
 import 'package:boilerplate/utils/translations/messages.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
